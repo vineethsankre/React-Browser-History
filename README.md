@@ -1,6 +1,6 @@
 In this project, let's build a react **Browser History** app where history can be viewed, navigate and deleted.
 
-### Refer to the image below:
+### Desired Output:
 
 <br/>
 <div style="text-align: center;">
