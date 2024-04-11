@@ -1,4 +1,4 @@
-In this project, let's build a react **Browser History** app where history can be viewed, navigate and deleted.
+Let’s embark on creating a React Browser History app. In this project, users will be able to view, navigate, and delete their browsing history. 
 
 ### Desired Output:
 
